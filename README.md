@@ -5,6 +5,10 @@ This is a simple project using React with React Hooks. React Hooks is a function
 axios is used to make calls to the api
 
 react is a javascript library that makes it easier to load components of an app
-    "react-dom": "^16.13.1",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+
+react-dom was used to create DOM specific methods used outside of the App component   
+
+react-dom was used to create DOM specific methods used outside of the App component
+
+react-scripts is used with create-react-app
+
